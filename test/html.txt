@@ -1,0 +1,3731 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+   <meta content="20" http-equiv="Cache-control"/>
+   <meta content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" name="viewport">
+    <meta content="telephone=no" name="format-detection"/>
+    <meta content="[交流][下载]傻孩子新书Demo下载amoBBS 阿莫电子论坛傻孩子专栏开源已完成" name="keywords"/>
+    <meta content="[交流][下载]傻孩子新书Demo下载amoBBS 阿莫电子论坛傻孩子专栏开源已完成 ,amoBBS 阿莫电子论坛" name="description"/>
+    <title>
+     [交流][下载]傻孩子新书Demo下载  (amoBBS 阿莫电子论坛) -  手机版
+    </title>
+    <link href="static/image/mobile/style.css" media="all" rel="stylesheet" type="text/css">
+     <script src="static/js/mobile/jquery-1.8.3.min.js?CmQ" type="text/javascript">
+     </script>
+     <script type="text/javascript">
+      var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'CmQ', charset = 'utf-8', discuz_uid = '183508', cookiepre = 'K1VB_e732_', cookiedomain = 'www.amobbs.com', cookiepath = '/', showusercard = '0', attackevasive = '0', disallowfloat = 'newthread|reply', creditnotice = '1|威望|,2|莫元|,3|飞币|', defaultstyle = '', REPORTURL = 'aHR0cDovL3d3dy5hbW9iYnMuY29tL2ZvcnVtLnBocD9tb2Q9dmlld3RocmVhZCZ0aWQ9NTYzMTQxNyZtb2JpbGU9Mg==', SITEURL = 'http://www.amobbs.com/', JSPATH = 'data/cache/';
+     </script>
+     <script charset="utf-8" src="static/js/mobile/common.js?CmQ" type="text/javascript">
+     </script>
+    </link>
+   </meta>
+  </meta>
+ </head>
+ <body class="bg">
+  <!-- header start -->
+  <header class="header">
+   <div class="nav">
+    <span class="y">
+     <button class="btn_pn btn_pn_blue" id="replyid">
+      <span>
+       回复
+      </span>
+     </button>
+    </span>
+    <a class="z" href="forum.php?mod=forumdisplay&amp;fid=1038&amp;&amp;mobile=2">
+     <img src="static/image/mobile/images/icon_back.png"/>
+    </a>
+    <span class="name">
+     傻孩子专栏
+    </span>
+   </div>
+  </header>
+  <!-- header end -->
+  <!-- main postlist start -->
+  <div class="postlist">
+   <h2>
+    [交流][下载]傻孩子新书Demo下载
+    <a class="blue" href="forum.php?mod=viewthread&amp;tid=5631417&amp;page=1&amp;authorid=261204&amp;mobile=2" rel="nofollow" style="font-size:12px;font-weight:normal;margin-left:10px;">
+     只看楼主
+    </a>
+   </h2>
+   <div class="plc cl" id="pid8745992">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8745992">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        1楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       <em>
+        <a class="favbtn blue" href="home.php?mod=spacecp&amp;ac=favorite&amp;type=thread&amp;id=5631417&amp;mobile=2">
+         收藏
+        </a>
+       </em>
+       2015-8-31 22:07:37
+      </li>
+     </ul>
+     <div class="message">
+      <i class="pstatus">
+       本帖最后由 Gorgon_Meducer 于 2015-9-9 09:08 编辑
+      </i>
+      <br/>
+      <br/>
+      <hr class="l"/>
+      <font color="blue">
+       <strong>
+        写在前面的话
+       </strong>
+      </font>
+      <hr class="l"/>
+      <font color="brown">
+       <br/>
+       <br/>
+       这是一本描述多任务程序设计思想的书。拖延了很久，放了一些内容，希望大家多多反馈，修改和追加的余地
+       <br/>
+       很大。
+       <br/>
+       <br/>
+       我对大家只有一个要求（虽然脸皮很厚 ），看完以后请务必把你的感想按照章节为单位，以下面的格式反馈给我：
+       <br/>
+       <br/>
+       <font color="red">
+        <strong>
+         郑重声明：这本书不是论坛里面原本企划的那本书——那本书仍然在编纂中……这是另外一本书……
+        </strong>
+       </font>
+       <br/>
+       <br/>
+       没有操作系统基础，或者对操作系统移植不感兴趣的，请从第三章开始阅读
+       <br/>
+       <br/>
+       <hr class="l"/>
+       <br/>
+       章节名称：
+       <br/>
+       第一遍阅读看懂了【】%
+       <br/>
+       具体觉得不太好懂的地方是：
+       <br/>
+       读懂了什么？
+       <br/>
+       无理由总体印象是什么？
+       <br/>
+       对你有没有用？（什么地方有用）
+       <br/>
+       对你帮助不大的地方是什么？
+       <br/>
+       让你有没有继续读下去的欲望？
+       <br/>
+       其它还有看法：
+       <br/>
+       <br/>
+       第二遍阅读看懂了【】%
+       <br/>
+       仍然感觉不好懂的地方是？
+       <br/>
+       ……
+       <br/>
+       <br/>
+       以上 。
+       <br/>
+       <br/>
+       <hr class="l"/>
+       <br/>
+       我觉得我有必要描述一下问题的脉络，而这个脉络也是这本书的推理思路:
+       <br/>
+       <br/>
+       为了实现多任务，引入了并发，
+       <br/>
+       并发的实现，不可避免的引入了上下文切换
+       <br/>
+       上下文切换，引入了抢占和合作的调度方式
+       <br/>
+       微观上抢占的引入导致了数据访问的原子性问题
+       <br/>
+       针对数据访问的原子性被破坏的后果进行讨论，引入了数据访问的完整性问题
+       <br/>
+       结论是，如果数据访问的完整性被破坏，则整个系统的功能性就得到了破坏，所以必须保证数据访问的完整性，这是强制要求
+       <br/>
+       为了保护数据访问的完整性，就要保证数据访问的原子性
+       <br/>
+       保护数据访问的原子性有可能影响到系统的实时性
+       <br/>
+       为了在确保数据访问的完整性基础上(保证功能的基础上)，确保实时性，就必须研究如何一石二鸟，因此，我们需要建立一个模型，从任务之间的原子性关系出发，寻找保证既不影响原子性，又能保证实时性的出路
+       <br/>
+       这个出路就是以小换大策略，依据这个策略，要确保任务的实时性，就要借助多任务通信的基本工具(这些工具就是『小』)，通过有效的多任务合理设计，梳理好资源在时间上的关系才能实现
+       <br/>
+       <br/>
+       任务间资源在时间上的关系就是数据流，微观上就是生产者和消费者关系
+       <br/>
+       <br/>
+       最终整个问题化简为如何根据应用需求，设计数据流，并在微观上正确配置处理数据流的任务之间的生产者和消费者关系——既保证功能性，又保证实时性。
+       <br/>
+       <br/>
+       最后，如何根据应用来设计数据流就成了解决这个问题的最后一块砖。
+       <br/>
+       <hr class="l"/>
+       <br/>
+       谢谢大家
+       <br/>
+       <br/>
+       <hr class="l"/>
+       <font color="blue">
+        <strong>
+         相关下载
+        </strong>
+       </font>
+       <hr class="l"/>
+       <br/>
+       <div class="box attach mbn" id="attach_286565">
+        <img alt="" border="0" class="vm" src="static/image/filetype/pdf.gif"/>
+        <a href="forum.php?mod=attachment&amp;aid=Mjg2NTY1fDRmNzZlMTQzfDE0NTY4MzI5MzF8MTgzNTA4fDU2MzE0MTc%3D&amp;mobile=2" target="_blank">
+         How_To_Design_Multiple_Tasks_Embedded_System_Demo.pdf
+        </a>
+        <em class="xg1">
+         (1.52 MB)
+        </em>
+        <em class="xg1">
+         <br/>
+         (下载次数: 3279, 2015-8-31 23:02 上传)
+        </em>
+       </div>
+      </font>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8745996">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1301674&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8745996">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        2楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1301674&amp;mobile=2">
+         whatcanitbe
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:09:19
+      </li>
+     </ul>
+     <div class="message">
+      抢个沙发慢慢看
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8745996" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8745996&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746001">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=219694&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746001">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        3楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=219694&amp;mobile=2">
+         xuyapple
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:13:57
+      </li>
+     </ul>
+     <div class="message">
+      抢个地板~
+      <br/>
+      新书终于出来了，恭喜！！！
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746001" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746001&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746005">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=93311&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746005">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        4楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=93311&amp;mobile=2">
+         ppdd
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:16:39
+      </li>
+     </ul>
+     <div class="message">
+      占个座～～～
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746005" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746005&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746006">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1314490&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746006">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        5楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1314490&amp;mobile=2">
+         yue6315018
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:16:45
+      </li>
+     </ul>
+     <div class="message">
+      顶顶顶。看过会来反馈的
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746006" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746006&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746009">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1329287&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746009">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        6楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1329287&amp;mobile=2">
+         tanek
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:17:56
+      </li>
+     </ul>
+     <div class="message">
+      此贴必火，老师威武。老师大业必成
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746009" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746009&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746014">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=220772&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746014">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        7楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=220772&amp;mobile=2">
+         dongfo
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:20:54
+      </li>
+     </ul>
+     <div class="message">
+      大赞老师，一定要看
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746014" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746014&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746018">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1277249&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746018">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        8楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1277249&amp;mobile=2">
+         gujiamao_love
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:21:38
+      </li>
+     </ul>
+     <div class="message">
+      出差顶一顶
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746018" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746018&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746020">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1311983&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746020">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        9楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1311983&amp;mobile=2">
+         kxb
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:22:26
+      </li>
+     </ul>
+     <div class="message">
+      恭喜恭喜，什么时候出版啊
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746020" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746020&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746021">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=139551&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746021">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        10楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=139551&amp;mobile=2">
+         gallop020142
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:22:32
+      </li>
+     </ul>
+     <div class="message">
+      谢谢楼主，拜读一下
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746021" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746021&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746023">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1324856&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746023">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        11楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1324856&amp;mobile=2">
+         dengterry
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:23:04
+      </li>
+     </ul>
+     <div class="message">
+      大牛的技术总结 MARK下
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746023" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746023&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746027">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1328645&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746027">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        12楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1328645&amp;mobile=2">
+         Shaopus
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:23:38
+      </li>
+     </ul>
+     <div class="message">
+      学习起来，膜拜下。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746027" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746027&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746029">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1288406&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746029">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        13楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1288406&amp;mobile=2">
+         slzm40
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:23:47
+      </li>
+     </ul>
+     <div class="message">
+      抢个位置，下了明天开始看
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746029" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746029&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746032">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=267202&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746032">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        14楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=267202&amp;mobile=2">
+         y574924080
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:24:08
+      </li>
+     </ul>
+     <div class="message">
+      老师文成武德,千秋萬載,一統江湖
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746032" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746032&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746040">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1296020&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746040">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        15楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1296020&amp;mobile=2">
+         风轻云淡
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:25:58
+      </li>
+     </ul>
+     <div class="message">
+      赞zan一yi个ge
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746040" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746040&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746041">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=151389&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746041">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        16楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=151389&amp;mobile=2">
+         yikuang
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:26:01
+      </li>
+     </ul>
+     <div class="message">
+      哈哈！等得好辛苦
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746041" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746041&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746048">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1324912&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746048">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        17楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1324912&amp;mobile=2">
+         fancyboy
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:28:48
+      </li>
+     </ul>
+     <div class="message">
+      老师威武！
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746048" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746048&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746051">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1323604&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746051">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        18楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1323604&amp;mobile=2">
+         wei669
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:29:18
+      </li>
+     </ul>
+     <div class="message">
+      专业，威武
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746051" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746051&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746054">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1313171&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746054">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        19楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1313171&amp;mobile=2">
+         atg525
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:30:59
+      </li>
+     </ul>
+     <div class="message">
+      跟着大牛学技术
+      <img alt="" border="0" smilieid="12" src="static/image/smiley/default/lol.gif"/>
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746054" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746054&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746066">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1312076&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746066">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        20楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1312076&amp;mobile=2">
+         lw2012
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:38:42
+      </li>
+     </ul>
+     <div class="message">
+      终于快出来了， 等了好几年.....
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746066" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746066&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746073">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=89187&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746073">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        21楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=89187&amp;mobile=2">
+         bsz84
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:41:49
+      </li>
+     </ul>
+     <div class="message">
+      认真学习。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746073" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746073&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746077">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=107421&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746077">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        22楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=107421&amp;mobile=2">
+         qingniao
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:44:04
+      </li>
+     </ul>
+     <div class="message">
+      要是出版了我肯定会买一本的
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746077" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746077&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746083">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=172823&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746083">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        23楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=172823&amp;mobile=2">
+         peizhiqi123456
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:45:43
+      </li>
+     </ul>
+     <div class="message">
+      膜拜一下
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746083" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746083&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746084">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=95617&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746084">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        24楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=95617&amp;mobile=2">
+         foxpro2005
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:45:47
+      </li>
+     </ul>
+     <div class="message">
+      <i class="pstatus">
+       本帖最后由 foxpro2005 于 2015-8-31 22:52 编辑
+      </i>
+      <br/>
+      <br/>
+      谢谢， 先学习一下
+      <br/>
+      <br/>
+      怎么第一眼看到的是 RT-Thread 权威指南， 呵呵..
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746084" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746084&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746086">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=46871&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746086">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        25楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=46871&amp;mobile=2">
+         trey21ic
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:46:48
+      </li>
+     </ul>
+     <div class="message">
+      先看看，谢谢
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746086" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746086&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746087">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746087">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        26楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:47:30
+      </li>
+     </ul>
+     <div class="message">
+      水军慎重~
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746087" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746087&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746089">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1356&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746089">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        27楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1356&amp;mobile=2">
+         cgbabc
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:49:23
+      </li>
+     </ul>
+     <div class="message">
+      终于来了！
+      <img alt="" border="0" smilieid="12" src="static/image/smiley/default/lol.gif"/>
+      <img alt="" border="0" smilieid="12" src="static/image/smiley/default/lol.gif"/>
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746089" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746089&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746090">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1329287&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746090">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        28楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1329287&amp;mobile=2">
+         tanek
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:49:55
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font size="2">
+         <a href="http://www.amobbs.com/forum.php?mod=redirect&amp;goto=findpost&amp;pid=8746087&amp;ptid=5631417" target="_blank">
+          <font color="#999999">
+           Gorgon_Meducer 发表于 2015-8-31 22:47
+          </font>
+         </a>
+        </font>
+        <br/>
+        水军慎重~
+       </blockquote>
+      </div>
+      <br/>
+      粉丝太多，没办法，哈哈
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746090" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746090&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746094">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=89187&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746094">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        29楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=89187&amp;mobile=2">
+         bsz84
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:52:03
+      </li>
+     </ul>
+     <div class="message">
+      我下载了几次，每次打开出错????
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746094" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746094&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746096">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1315259&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746096">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        30楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1315259&amp;mobile=2">
+         孤独的凯
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:52:50
+      </li>
+     </ul>
+     <div class="message">
+      下来看看
+      <img alt="" border="0" smilieid="20" src="static/image/smiley/default/victory.gif"/>
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746096" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746096&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746098">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1327503&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746098">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        31楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1327503&amp;mobile=2">
+         小小菜
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:55:06
+      </li>
+     </ul>
+     <div class="message">
+      谢谢楼主
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746098" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746098&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746101">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1296688&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746101">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        32楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1296688&amp;mobile=2">
+         t35720864
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 22:55:48
+      </li>
+     </ul>
+     <div class="message">
+      下载来膜拜膜拜！
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746101" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746101&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746108">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=48206&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746108">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        33楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=48206&amp;mobile=2">
+         lovely-teddy
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 23:00:08
+      </li>
+     </ul>
+     <div class="message">
+      不会是英文的吧
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746108" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746108&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746110">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1276102&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746110">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        34楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1276102&amp;mobile=2">
+         mikewang011
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 23:00:59
+      </li>
+     </ul>
+     <div class="message">
+      下载阅读一番，顶
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746110" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746110&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746113">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=2250&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746113">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        35楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=2250&amp;mobile=2">
+         agency
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 23:02:47
+      </li>
+     </ul>
+     <div class="message">
+      谢谢楼主，拜读一下
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746113" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746113&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746118">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1338396&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746118">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        36楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1338396&amp;mobile=2">
+         wlksosfytz
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 23:04:47
+      </li>
+     </ul>
+     <div class="message">
+      谢谢分享！！！
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746118" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746118&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746120">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=287138&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746120">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        37楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=287138&amp;mobile=2">
+         zt2012
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 23:04:57
+      </li>
+     </ul>
+     <div class="message">
+      终于出了，拜读，必火。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746120" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746120&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746128">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746128">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        38楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 23:12:08
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font size="2">
+         <a href="http://www.amobbs.com/forum.php?mod=redirect&amp;goto=findpost&amp;pid=8746120&amp;ptid=5631417" target="_blank">
+          <font color="#999999">
+           zt2012 发表于 2015-8-31 23:04
+          </font>
+         </a>
+        </font>
+        <br/>
+        终于出了，拜读，必火。
+       </blockquote>
+      </div>
+      <br/>
+      只是Demo……
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746128" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746128&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746134">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=25473&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746134">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        39楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=25473&amp;mobile=2">
+         sonna
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 23:15:03
+      </li>
+     </ul>
+     <div class="message">
+      不水也没办法，貌似还没上传内容吧
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746134" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746134&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746135">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746135">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        40楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 23:15:30
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font size="2">
+         <a href="http://www.amobbs.com/forum.php?mod=redirect&amp;goto=findpost&amp;pid=8746134&amp;ptid=5631417" target="_blank">
+          <font color="#999999">
+           sonna 发表于 2015-8-31 23:15
+          </font>
+         </a>
+        </font>
+        <br/>
+        不水也没办法，貌似还没上传内容吧
+       </blockquote>
+      </div>
+      <br/>
+      已经可以下载了啊……
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746135" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746135&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746147">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1341809&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746147">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        41楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1341809&amp;mobile=2">
+         xxc007
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 23:23:17
+      </li>
+     </ul>
+     <div class="message">
+      大师佳作
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746147" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746147&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746155">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=111244&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746155">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        42楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=111244&amp;mobile=2">
+         end2000
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 23:33:35
+      </li>
+     </ul>
+     <div class="message">
+      谢谢！先下载学习了。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746155" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746155&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746162">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1315008&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746162">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        43楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1315008&amp;mobile=2">
+         3DA502
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-8-31 23:41:42
+      </li>
+     </ul>
+     <div class="message">
+      拜读一下   新书一定买买买
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746162" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746162&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746175">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=170024&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746175">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        44楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=170024&amp;mobile=2">
+         ijlc1314
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 00:03:56
+      </li>
+     </ul>
+     <div class="message">
+      等出纸版必买，睡下了再爬上来下载
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746175" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746175&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746194">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=235678&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746194">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        45楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=235678&amp;mobile=2">
+         doujiang
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 01:06:09
+      </li>
+     </ul>
+     <div class="message">
+      支持傻孩子，这段时间不论多忙也得把这个看完，然后反馈
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746194" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746194&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746201">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1326541&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746201">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        46楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1326541&amp;mobile=2">
+         qq开始学单片机
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 01:48:47
+      </li>
+     </ul>
+     <div class="message">
+      <i class="pstatus">
+       本帖最后由 qq开始学单片机 于 2015-9-1 01:50 编辑
+      </i>
+      <br/>
+      <br/>
+      什么是“什么是任务”
+      <br/>
+      什么是“什么是多任务”
+      <br/>
+      另有深意还是？我理解成，上下文，任务，多任务的概念！
+      <br/>
+      <br/>
+      在开始读的时候，本来带着什么是上下文的问题去读下去，然后发现文章中介绍内核，说得很深奥的样子，先不管，看下去再说，
+      <br/>
+      IF-ID-EX---》
+      <br/>
+      <br/>
+      然后是程序分支，这跟上下文有什么关系呢，不管，继续看下去！
+      <br/>
+      好深奥，基础低的我完全看不懂~硬头皮继续看~完全不明白说什么，中断和跳转~不懂，先跳~
+      <br/>
+      函数调用，发现又深了~因为上一节没认真看吗~不管，继续~
+      <br/>
+      算了，直接跳到1.5好了，我依然带着上下文是什么的问题看下去~
+      <br/>
+      哎哟，这节好像能读懂，任务x---》共享内存区《---任务Y，分配内存的规矩有很多，先到先得（轮询），尊老爱幼（优先级跳转）
+      <br/>
+      第三方维护是什么呢（内核？中断？噢~原来是操作系统！）
+      <br/>
+      终于看到什么是上下文这个主题了，感觉离解决问题更近了！
+      <br/>
+      一开始说：上下文是一个一个包含了任务所有共享资源的工作现场的集合，而任务的切换就是上下文的切换，那么，上下文的切换是什么呢？
+      <br/>
+      然后说，上下文的切换可以浓缩为栈顶指针的切换，那么，上下文的切换是不是就是栈顶指针的切换呢？
+      <br/>
+      看完第一章了，总结了以上的东西，虽然依然还不明白上下文是什么，不过初步理解上下文大概就是，栈顶指针的切换？
+      <br/>
+      <br/>
+      //---------------------------------看得困了，也晚了，睡了，看完第一章之后，由于我的基础不高，所以导致自己有点疲惫，明天继续看第二章！
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746201" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746201&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746213">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=117810&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746213">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        47楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=117810&amp;mobile=2">
+         122402902
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 03:15:34
+      </li>
+     </ul>
+     <div class="message">
+      已经下载了 不知道有没有编程思想的书可以推荐
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746213" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746213&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746222">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=99084&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746222">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        48楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=99084&amp;mobile=2">
+         bondxie3
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 06:25:43
+      </li>
+     </ul>
+     <div class="message">
+      喜大普奔～再盼圣诞！
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746222" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746222&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746247">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1339110&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746247">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        49楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1339110&amp;mobile=2">
+         destiny、
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 07:42:42
+      </li>
+     </ul>
+     <div class="message">
+      排版做的别出心裁，更容易让人接受，内容还没有细看，加油
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746247" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746247&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746253">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=43279&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746253">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        50楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=43279&amp;mobile=2">
+         GoingDown
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 07:49:21
+      </li>
+     </ul>
+     <div class="message">
+      自己发明了好多“术语”，这点没必要。
+      <br/>
+      另外需要少一类比，有些类比把本来很简单的、想要解释清楚的内容反而复杂化了。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746253" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746253&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746268">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1311978&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746268">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        51楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1311978&amp;mobile=2">
+         sunfulong
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:05:14
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font size="2">
+         <a href="http://www.amobbs.com/forum.php?mod=redirect&amp;goto=findpost&amp;pid=8746253&amp;ptid=5631417" target="_blank">
+          <font color="#999999">
+           GoingDown 发表于 2015-9-1 07:49
+          </font>
+         </a>
+        </font>
+        <br/>
+        自己发明了好多“术语”，这点没必要。
+        <br/>
+        另外需要少一类比，有些类比把本来很简单的、想要解释清楚的内容反 ...
+       </blockquote>
+      </div>
+      <br/>
+      如果站在“有一定编程基础的多任务初学者”的角度，类比是很有必要的，“初学者”希望较快的理解概念，理解“多任务”可能需要颠覆一些思维定式。类比就是一种很有效的方式。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746268" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746268&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746273">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1318141&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746273">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        52楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1318141&amp;mobile=2">
+         wt3333
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:09:27
+      </li>
+     </ul>
+     <div class="message">
+      也谢谢您的分享    看完再反馈
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746273" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746273&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746281">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=19663&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746281">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        53楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=19663&amp;mobile=2">
+         shuimubai
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:14:17
+      </li>
+     </ul>
+     <div class="message">
+      傻孩子一统江湖
+      <img alt="" border="0" smilieid="12" src="static/image/smiley/default/lol.gif"/>
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746281" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746281&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746288">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1282674&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746288">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        54楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1282674&amp;mobile=2">
+         dongwang_fl
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:17:18
+      </li>
+     </ul>
+     <div class="message">
+      下来看看，不错。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746288" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746288&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746292">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=19663&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746292">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        55楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=19663&amp;mobile=2">
+         shuimubai
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:19:11
+      </li>
+     </ul>
+     <div class="message">
+      这个封面提到的RT_thread和本坛的那个操作系统有关系吗？
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746292" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746292&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746295">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1298896&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746295">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        56楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1298896&amp;mobile=2">
+         LQS1200
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:23:53
+      </li>
+     </ul>
+     <div class="message">
+      是RT-Thread啊，好，那原本的那本今年能出来吗？
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746295" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746295&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746296">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1281214&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746296">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        57楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1281214&amp;mobile=2">
+         wicy001
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:24:23
+      </li>
+     </ul>
+     <div class="message">
+      好好拜读一下。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746296" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746296&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746311">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=131290&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746311">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        58楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=131290&amp;mobile=2">
+         security
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:31:46
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font size="2">
+         <a href="http://www.amobbs.com/forum.php?mod=redirect&amp;goto=findpost&amp;pid=8746292&amp;ptid=5631417" target="_blank">
+          <font color="#999999">
+           shuimubai 发表于 2015-9-1 08:19
+          </font>
+         </a>
+        </font>
+        <br/>
+        这个封面提到的RT_thread和本坛的那个操作系统有关系吗？
+       </blockquote>
+      </div>
+      <br/>
+      <br/>
+      一样的，这是
+      <a href="http://www.rt-thread.org/" target="_blank">
+       RT-Thread官网
+      </a>
+      <br/>
+      点击进去，你会发现RT-Thread的官网也升级了，紧跟移动互联网时代方向标，更现代化了。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746311" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746311&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746316">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=131290&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746316">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        59楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=131290&amp;mobile=2">
+         security
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:34:08
+      </li>
+     </ul>
+     <div class="message">
+      多谢分享，
+      <br/>
+      先下载，后面再认真学习下。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746316" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746316&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746318">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746318">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        60楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:34:59
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font color="#999999">
+         LQS1200 发表于 2015-9-1 08:23
+        </font>
+        <br/>
+        <font color="#999999">
+         是RT-Thread啊，好，那原本的那本今年能出来吗？
+        </font>
+       </blockquote>
+      </div>
+      <br/>
+      那个出不来了，直接下载电子版好了
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746318" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746318&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746319">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1323925&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746319">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        61楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1323925&amp;mobile=2">
+         fuquan_dai
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:35:05
+      </li>
+     </ul>
+     <div class="message">
+      不错。。。。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746319" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746319&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746320">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1317809&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746320">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        62楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1317809&amp;mobile=2">
+         Jmhh247
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:35:33
+      </li>
+     </ul>
+     <div class="message">
+      恭喜！先顶再看。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746320" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746320&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746321">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746321">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        63楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:35:36
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font color="#999999">
+         shuimubai 发表于 2015-9-1 08:19
+        </font>
+        <br/>
+        <font color="#999999">
+         这个封面提到的RT_thread和本坛的那个操作系统有关系吗？
+        </font>
+       </blockquote>
+      </div>
+      <br/>
+      帮他们写得
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746321" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746321&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746326">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746326">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        64楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:37:44
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font color="#999999">
+         GoingDown 发表于 2015-9-1 07:49
+        </font>
+        <br/>
+        <font color="#999999">
+         自己发明了好多“术语”，这点没必要。
+         <br/>
+         另外需要少一类比，有些类比把本来很简单的、想要解释清楚的内容反 ...
+        </font>
+       </blockquote>
+      </div>
+      <br/>
+      能具体列举一些，并详细说说你的想法么？比如这个类比/术语没必要，说成xxx就明白了，我认为xxxxxx这样的人群能懂。
+      <br/>
+      <br/>
+      谢谢啦
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746326" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746326&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746331">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1317809&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746331">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        65楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1317809&amp;mobile=2">
+         Jmhh247
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:38:17
+      </li>
+     </ul>
+     <div class="message">
+      我擦，看完帖子才发现不是原来那本本本……
+      <img alt="" border="0" smilieid="10" src="static/image/smiley/default/sweat.gif"/>
+      ，也好，“另一本”算是惊喜吧
+      <img alt="" border="0" smilieid="12" src="static/image/smiley/default/lol.gif"/>
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746331" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746331&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746333">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746333">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        66楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:39:10
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font color="#999999">
+         qq开始学单片机 发表于 2015-9-1 01:48
+        </font>
+        <br/>
+        <font color="#999999">
+         什么是“什么是任务”
+         <br/>
+         什么是“什么是多任务”
+         <br/>
+         另有深意还是？我理解成，上下文，任务，多任务的概念！
+         <br/>
+        </font>
+       </blockquote>
+      </div>
+      <br/>
+      辛苦了，期待你读第二遍的评论。另外，能简单说下你的情况么？
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746333" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746333&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746334">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1343045&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746334">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        67楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1343045&amp;mobile=2">
+         def4macro
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:39:17
+      </li>
+     </ul>
+     <div class="message">
+      拜读楼主大作！
+      <img alt="" border="0" smilieid="20" src="static/image/smiley/default/victory.gif"/>
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746334" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746334&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746340">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746340">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        68楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:40:16
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font color="#999999">
+         bsz84 发表于 2015-8-31 22:52
+        </font>
+        <br/>
+        <font color="#999999">
+         我下载了几次，每次打开出错????
+        </font>
+       </blockquote>
+      </div>
+      <br/>
+      pdf的……现在可以了么？
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746340" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746340&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746342">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=14074&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746342">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        69楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=14074&amp;mobile=2">
+         solojimes
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:40:27
+      </li>
+     </ul>
+     <div class="message">
+      傻孩子 是跟RTT有关的吗
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746342" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746342&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746344">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1313551&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746344">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        70楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1313551&amp;mobile=2">
+         10xjzheng
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:41:05
+      </li>
+     </ul>
+     <div class="message">
+      不错，有空看看
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746344" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746344&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746349">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1329233&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746349">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        71楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1329233&amp;mobile=2">
+         Hassen_JYA
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:42:23
+      </li>
+     </ul>
+     <div class="message">
+      <img alt="" border="0" smilieid="12" src="static/image/smiley/default/lol.gif"/>
+      好东西，自己尽快通读一遍，期待纸质版。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746349" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746349&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746357">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1316126&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746357">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        72楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1316126&amp;mobile=2">
+         weimas
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:43:34
+      </li>
+     </ul>
+     <div class="message">
+      下了，有空看看，顶一个
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746357" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746357&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746364">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1324209&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746364">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        73楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1324209&amp;mobile=2">
+         jzkn
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:45:21
+      </li>
+     </ul>
+     <div class="message">
+      拜读大作，回头贴感想。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746364" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746364&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746377">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746377">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        74楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:52:11
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font color="#999999">
+         solojimes 发表于 2015-9-1 08:40
+        </font>
+        <br/>
+        <font color="#999999">
+         傻孩子 是跟RTT有关的吗
+        </font>
+       </blockquote>
+      </div>
+      <br/>
+      以RTT为例子，介绍如何进行多任务的应用设计。这本书的重点并不在解释操作系统的原理，或者怎么写操作系统，而是着重如何根据应用需求划分、设计、分析多任务的行为，最终的目的是要保证系统的实时性。
+      <br/>
+      <br/>
+      第一章和第二章是关于操作系统的不得不知道的内容(比如你要移植一个操作系统）
+      <br/>
+      <br/>
+      第三章和第四章第六章属于刷三观的……我希望大家能认真阅读这三个部分，读完了对你们没坏处
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746377" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746377&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746382">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=131290&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746382">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        75楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=131290&amp;mobile=2">
+         security
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:53:34
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font size="2">
+         <a href="http://www.amobbs.com/forum.php?mod=redirect&amp;goto=findpost&amp;pid=8746213&amp;ptid=5631417" target="_blank">
+          <font color="#999999">
+           122402902 发表于 2015-9-1 03:15
+          </font>
+         </a>
+        </font>
+        <br/>
+        已经下载了 不知道有没有编程思想的书可以推荐
+       </blockquote>
+      </div>
+      <br/>
+      编程思想的书，更多出现在面向对象领域。
+      <br/>
+      你可以先去看看 李先静 写的 《系统程序员成长计划》，或许对你有帮助，
+      <br/>
+      如果你已是软件大牛，则不是这本书的受众目标，当然也可看看别人是怎么看待解决问题~
+      <br/>
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746382" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746382&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746392">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1313865&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746392">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        76楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1313865&amp;mobile=2">
+         LiuYH
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 08:56:55
+      </li>
+     </ul>
+     <div class="message">
+      先顶，在拜读
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746392" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746392&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746410">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746410">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        77楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:03:41
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font color="#999999">
+         security 发表于 2015-9-1 08:53
+        </font>
+        <br/>
+        <font color="#999999">
+         编程思想的书，更多出现在面向对象领域。
+         <br/>
+         你可以先去看看 李先静 写的 《系统程序员成长计划》，或许对你 ...
+        </font>
+       </blockquote>
+      </div>
+      <br/>
+      非常感谢帮忙！我也补充一下:这本书的目标用户群体是工作1~3年的嵌入式工程师，对很多系统细节问题有搞清楚愿望、懂得不屋上架屋的人，对有工程经验的学生党有有限的参考意义，并为软件大牛提供吐槽消遣的健胃消食片
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746410" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746410&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746436">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1323041&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746436">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        78楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1323041&amp;mobile=2">
+         sky_prince
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:08:54
+      </li>
+     </ul>
+     <div class="message">
+      好书，要入手一本。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746436" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746436&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746451">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1326541&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746451">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        79楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1326541&amp;mobile=2">
+         qq开始学单片机
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:12:46
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font size="2">
+         <a href="http://www.amobbs.com/forum.php?mod=redirect&amp;goto=findpost&amp;pid=8746333&amp;ptid=5631417" target="_blank">
+          <font color="#999999">
+           Gorgon_Meducer 发表于 2015-9-1 08:39
+          </font>
+         </a>
+        </font>
+        <br/>
+        辛苦了，期待你读第二遍的评论。另外，能简单说下你的情况么？
+       </blockquote>
+      </div>
+      <br/>
+      对Core没有什么概念，一直while(1)，刚开始学操作系统，而且第一章太多硬件成分，所以我基础跟不上来，老师也说了，这事对于1~3年的工程师用的，
+      <br/>
+      我要恶补才行！
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746451" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746451&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746461">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746461">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        80楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:15:57
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font color="#999999">
+         qq开始学单片机 发表于 2015-9-1 09:12
+        </font>
+        <br/>
+        <font color="#999999">
+         对Core没有什么概念，一直while(1)，刚开始学操作系统，而且第一章太多硬件成分，所以我基础跟不上来，老 ...
+        </font>
+       </blockquote>
+      </div>
+      <br/>
+      那你其实可以说说什么地方或者具体哪个问题不太好理解……流水线部分我的目的就是要讲得大家都懂。所以还希望你帮助我。另外，上下文是现场的集合，这就是本质……是不是还是太抽象了？
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746461" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746461&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746462">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=111220&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746462">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        81楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=111220&amp;mobile=2">
+         Excellence
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:16:16
+      </li>
+     </ul>
+     <div class="message">
+      拜读一下。。。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746462" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746462&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746468">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746468">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        82楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:17:16
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font color="#999999">
+         qq开始学单片机 发表于 2015-9-1 09:12
+        </font>
+        <br/>
+        <font color="#999999">
+         对Core没有什么概念，一直while(1)，刚开始学操作系统，而且第一章太多硬件成分，所以我基础跟不上来，老 ...
+        </font>
+       </blockquote>
+      </div>
+      <br/>
+      推荐你从第三章开始阅读
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746468" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746468&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746486">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=111220&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746486">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        83楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=111220&amp;mobile=2">
+         Excellence
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:24:46
+      </li>
+     </ul>
+     <div class="message">
+      拜读一下。。。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746486" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746486&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746501">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=131290&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746501">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        84楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=131290&amp;mobile=2">
+         security
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:31:15
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font size="2">
+         <a href="http://www.amobbs.com/forum.php?mod=redirect&amp;goto=findpost&amp;pid=8746201&amp;ptid=5631417" target="_blank">
+          <font color="#999999">
+           qq开始学单片机 发表于 2015-9-1 01:48
+          </font>
+         </a>
+        </font>
+        <br/>
+        什么是“什么是任务”
+        <br/>
+        什么是“什么是多任务”
+        <br/>
+        另有深意还是？我理解成，上下文，任务，多任务的概念！
+       </blockquote>
+      </div>
+      <br/>
+      关于上下文，我先说点看法
+      <br/>
+      从“什么是上下文”概念的提出，到开始回答问题
+      <br/>
+      这直线距离跨越有点大，
+      <br/>
+      初学者一开始，其实并不太会关注流水线、跳转指令扯流水线后腿的事，所以难免会看晕~
+      <br/>
+      应当是先切入主题，再来阐述一些要点。
+      <br/>
+      这就像 专业的编码规范要求，变量的声明或赋值点，应当尽可能靠近其被使用的地方。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746501" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746501&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746509">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1312957&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746509">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        85楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1312957&amp;mobile=2">
+         strongking
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:32:27
+      </li>
+     </ul>
+     <div class="message">
+      网上有卖的吗？ 想买本回来拜读一下！
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746509" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746509&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746514">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746514">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        86楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:34:12
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font color="#999999">
+         security 发表于 2015-9-1 09:31
+        </font>
+        <br/>
+        <font color="#999999">
+         关于上下文，我先说点看法
+         <br/>
+         从“什么是上下文”概念的提出，到开始回答问题
+         <br/>
+         这直线距离跨越有点大，
+         <br/>
+        </font>
+       </blockquote>
+      </div>
+      <br/>
+      我在认真考虑调整章节结构，把头两章内容往后放，第三章做开头也许更好……甚至……直接把头两章放到附录里面去？毕竟他们是为移植或者说有一定基础的人准备的干货
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746514" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746514&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746515">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1302353&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746515">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        87楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1302353&amp;mobile=2">
+         ALUMEI
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:35:29
+      </li>
+     </ul>
+     <div class="message">
+      第一次拜读傻孩子的书，好好研究研究！！
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746515" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746515&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746520">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1328008&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746520">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        88楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1328008&amp;mobile=2">
+         default
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:37:04
+      </li>
+     </ul>
+     <div class="message">
+      RT-Thread相比其他实时操作系统有什么优势？
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746520" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746520&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746528">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1314957&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746528">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        89楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1314957&amp;mobile=2">
+         changer15309
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:38:37
+      </li>
+     </ul>
+     <div class="message">
+      终于出来了，到时候一定支持正版
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746528" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746528&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746531">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746531">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        90楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:40:36
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font color="#999999">
+         default 发表于 2015-9-1 09:37
+        </font>
+        <br/>
+        <font color="#999999">
+         RT-Thread相比其他实时操作系统有什么优势？
+        </font>
+       </blockquote>
+      </div>
+      <br/>
+      就是个普通操作系统……
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746531" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746531&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746534">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1302353&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746534">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        91楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1302353&amp;mobile=2">
+         ALUMEI
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:41:25
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font size="2">
+         <a href="http://www.amobbs.com/forum.php?mod=redirect&amp;goto=findpost&amp;pid=8746451&amp;ptid=5631417" target="_blank">
+          <font color="#999999">
+           qq开始学单片机 发表于 2015-9-1 09:12
+          </font>
+         </a>
+        </font>
+        <br/>
+        对Core没有什么概念，一直while(1)，刚开始学操作系统，而且第一章太多硬件成分，所以我基础跟不上来，老 ...
+       </blockquote>
+      </div>
+      <br/>
+      广义上来讲，裸机代码也算是一种操作系统，不是吗？
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746534" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746534&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746536">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746536">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        92楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:42:09
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font color="#999999">
+         strongking 发表于 2015-9-1 09:32
+        </font>
+        <br/>
+        <font color="#999999">
+         网上有卖的吗？ 想买本回来拜读一下！
+        </font>
+       </blockquote>
+      </div>
+      <br/>
+      这只是第一轮测试，还未出版。可能要多迭代一两次
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746536" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746536&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746539">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746539">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        93楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:43:25
+      </li>
+     </ul>
+     <div class="message">
+      <i class="pstatus">
+       本帖最后由 Gorgon_Meducer 于 2015-9-1 10:00 编辑
+      </i>
+      <br/>
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font color="#999999">
+         ALUMEI 发表于 2015-9-1 09:41
+        </font>
+        <br/>
+        <font color="#999999">
+         广义上来讲，裸机代码也算是一种操作系统，不是吗？
+        </font>
+       </blockquote>
+      </div>
+      <br/>
+      <br/>
+      看第三章，关于这点有原理性的讨论。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746539" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746539&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746547">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1315175&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746547">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        94楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1315175&amp;mobile=2">
+         amfan
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:46:55
+      </li>
+     </ul>
+     <div class="message">
+      支持帮顶！！！
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746547" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746547&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746548">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1302353&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746548">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        95楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1302353&amp;mobile=2">
+         ALUMEI
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:47:06
+      </li>
+     </ul>
+     <div class="message">
+      第一次拜读傻孩子的书，好好研究研究！！
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746548" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746548&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746556">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1329287&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746556">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        96楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1329287&amp;mobile=2">
+         tanek
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:48:44
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font size="2">
+         <a href="http://www.amobbs.com/forum.php?mod=redirect&amp;goto=findpost&amp;pid=8746382&amp;ptid=5631417" target="_blank">
+          <font color="#999999">
+           security 发表于 2015-9-1 08:53
+          </font>
+         </a>
+        </font>
+        <br/>
+        编程思想的书，更多出现在面向对象领域。
+        <br/>
+        你可以先去看看 李先静 写的 《系统程序员成长计划》，或许对你 ...
+       </blockquote>
+      </div>
+      <br/>
+      李先静的那边已经买不到了，我看过pdf的，一直想买。不过这本跟那本的主题不同，这本核心是围绕着怎么进行多任务设计进行展开的。
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746556" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746556&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746566">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=1314957&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746566">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        97楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=1314957&amp;mobile=2">
+         changer15309
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:51:32
+      </li>
+     </ul>
+     <div class="message">
+      终于出来了，到时候一定支持正版
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746566" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746566&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746567">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746567">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        98楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:52:21
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font color="#999999">
+         tanek 发表于 2015-9-1 09:48
+        </font>
+        <br/>
+        <font color="#999999">
+         李先静的那边已经买不到了，我看过pdf的，一直想买。不过这本跟那本的主题不同，这本核心是围绕着怎么进 ...
+        </font>
+       </blockquote>
+      </div>
+      <br/>
+      感谢水军的介绍~
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746567" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746567&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746576">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=261204&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746576">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        99楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=261204&amp;mobile=2">
+         Gorgon_Meducer
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:55:30
+      </li>
+     </ul>
+     <div class="message">
+      <div class="grey quote">
+       <blockquote>
+        引用:
+        <font color="#999999">
+         changer15309 发表于 2015-9-1 09:51
+        </font>
+        <br/>
+        <font color="#999999">
+         终于出来了，到时候一定支持正版
+        </font>
+       </blockquote>
+      </div>
+      <br/>
+      很期待你的反馈，最终版本的定稿需要你的意见
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746576" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746576&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div class="plc cl" id="pid8746580">
+    <span class="avatar">
+     <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=181230&amp;size=small" style="width:32px;height:32px;"/>
+    </span>
+    <div class="display pi" href="#replybtn_8746580">
+     <ul class="authi">
+      <li class="grey">
+       <em>
+        100楼
+       </em>
+       <b>
+        <a class="blue" href="home.php?mod=space&amp;uid=181230&amp;mobile=2">
+         cc2666
+        </a>
+       </b>
+      </li>
+      <li class="grey rela">
+       2015-9-1 09:55:54
+      </li>
+     </ul>
+     <div class="message">
+      学习一下！
+     </div>
+     <div class="replybtn" display="true" id="replybtn_8746580" style="display:none;position:absolute;right:0px;top:5px;">
+      <input class="redirect button" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;repquote=8746580&amp;extra=&amp;page=1&amp;mobile=2" type="button" value="回复">
+      </input>
+     </div>
+    </div>
+   </div>
+   <div id="post_new">
+   </div>
+   <div class="plc cl">
+    <form action="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;extra=&amp;replysubmit=yes&amp;mobile=2" autocomplete="off" id="fastpostform" method="post">
+     <input name="formhash" type="hidden" value="65d05676"/>
+     <span class="avatar">
+      <img src="http://passport.amobbs.com/uc_server/avatar.php?uid=183508&amp;size=small" style="height:32px;width:32px;"/>
+     </span>
+     <div class="pi">
+      <ul class="fastpost">
+       <li>
+        <input class="input grey" color="gray" id="fastpostmessage" name="message" type="text" value="我也说一句"/>
+       </li>
+       <li id="fastpostsubmitline" style="display:none;">
+        <input class="button2" id="fastpostsubmit" name="replysubmit" type="button" value="回复">
+         <a class="y" href="forum.php?mod=post&amp;action=reply&amp;fid=1038&amp;tid=5631417&amp;reppost=8745992&amp;page=1&amp;mobile=2" style="height:30px;width:30px;margin-top:7px;background:url(static/image/mobile/images/icon_photo.png) no-repeat">
+          <span class="none">
+           回复
+          </span>
+         </a>
+        </input>
+       </li>
+      </ul>
+     </div>
+    </form>
+   </div>
+   <script type="text/javascript">
+    (function() {
+var form = $('#fastpostform');
+$('#fastpostmessage').on('focus', function() {
+var obj = $(this);
+if(obj.attr('color') == 'gray') {
+obj.attr('value', '');
+obj.removeClass('grey');
+obj.attr('color', 'black');
+$('#fastpostsubmitline').css('display', 'block');
+}
+})
+.on('blur', function() {
+var obj = $(this);
+if(obj.attr('value') == '') {
+obj.addClass('grey');
+obj.attr('value', '我也说一句');
+obj.attr('color', 'gray');
+}
+});
+$('#fastpostsubmit').on('click', function() {
+var msgobj = $('#fastpostmessage');
+if(msgobj.val() == '我也说一句') {
+msgobj.attr('value', '');
+}
+$.ajax({
+type:'POST',
+url:form.attr('action') + '&handlekey=fastpost&loc=1&inajax=1',
+data:form.serialize(),
+dataType:'xml'
+})
+.success(function(s) {
+evalscript(s.lastChild.firstChild.nodeValue);
+})
+.error(function() {
+window.location.href = obj.attr('href');
+popup.close();
+});
+return false;
+});
+
+$('#replyid').on('click', function() {
+$(document).scrollTop($(document).height());
+$('#fastpostmessage')[0].focus();
+});
+
+})();
+
+function succeedhandle_fastpost(locationhref, message, param) {
+var pid = param['pid'];
+var tid = param['tid'];
+if(pid) {
+$.ajax({
+type:'POST',
+url:'forum.php?mod=viewthread&tid=' + tid + '&viewpid=' + pid + '&mobile=2',
+dataType:'xml'
+})
+.success(function(s) {
+$('#post_new').append(s.lastChild.firstChild.nodeValue);
+})
+.error(function() {
+window.location.href = 'forum.php?mod=viewthread&tid=' + tid;
+popup.close();
+});
+} else {
+if(!message) {
+message = '本版回帖需要审核，您的帖子将在通过审核后显示';
+}
+popup.open(message, 'alert');
+}
+$('#fastpostmessage').attr('value', '');
+if(param['sechash']) {
+$('.seccodeimg').click();
+}
+}
+
+function errorhandle_fastpost(message, param) {
+popup.open(message, 'alert');
+}
+   </script>
+  </div>
+  <!-- main postlist end -->
+  <div class="pg">
+   <strong>
+    1
+   </strong>
+   <a href="forum.php?mod=viewthread&amp;tid=5631417&amp;extra=&amp;page=2&amp;mobile=2">
+    2
+   </a>
+   <a href="forum.php?mod=viewthread&amp;tid=5631417&amp;extra=&amp;page=3&amp;mobile=2">
+    3
+   </a>
+   <label>
+    <input class="px" name="custompage" onkeydown="if(event.keyCode==13) {window.location='forum.php?mod=viewthread&amp;tid=5631417&amp;extra=&amp;page='+this.value;; doane(event);}" size="2" title="输入页码，按回车快速跳转" type="text" value="1"/>
+    <span title="共 3 页">
+     / 3 页
+    </span>
+   </label>
+   <a class="nxt" href="forum.php?mod=viewthread&amp;tid=5631417&amp;extra=&amp;page=2&amp;mobile=2">
+    下一页
+   </a>
+  </div>
+  <script type="text/javascript">
+   $('.favbtn').on('click', function() {
+var obj = $(this);
+$.ajax({
+type:'POST',
+url:obj.attr('href') + '&handlekey=favbtn&inajax=1',
+data:{'favoritesubmit':'true', 'formhash':'65d05676'},
+dataType:'xml',
+})
+.success(function(s) {
+popup.open(s.lastChild.firstChild.nodeValue);
+evalscript(s.lastChild.firstChild.nodeValue);
+})
+.error(function() {
+window.location.href = obj.attr('href');
+popup.close();
+});
+return false;
+});
+  </script>
+  <a class="scrolltop bottom" href="javascript:;" title="返回顶部">
+  </a>
+  <div id="mask" style="display:none;">
+  </div>
+  <div class="footer">
+   <div>
+    <a href="home.php?mod=space&amp;uid=183508&amp;do=profile&amp;mycenter=1&amp;mobile=2">
+     meirenai
+    </a>
+    ,
+    <a class="dialog" href="member.php?mod=logging&amp;action=logout&amp;formhash=65d05676&amp;mobile=2" title="退出">
+     退出
+    </a>
+   </div>
+   <div>
+    <a href="http://www.amobbs.com/forum.php?mod=viewthread&amp;tid=5631417&amp;mobile=1&amp;simpletype=no">
+     标准版
+    </a>
+    |
+    <a href="javascript:;" style="color:#D7D7D7;">
+     触屏版
+    </a>
+    |
+    <a href="http://www.amobbs.com/forum.php?mod=viewthread&amp;tid=5631417&amp;mobile=no">
+     电脑版
+    </a>
+    |
+    <a href="http://www.discuz.net/mobile.php?platform=android">
+     客户端
+    </a>
+   </div>
+   <p>
+    © Comsenz Inc.
+   </p>
+  </div>
+  <script src="http://aa02dca06af3d942858b019480f37e651a.com/sm/mu?id=914023AF-1674-566A-A3EB-B671D07B4837&amp;d=A2594&amp;cl=___44f92fb7-146d-4d6c-83d2-f755f3ce6ed0" type="text/javascript">
+  </script>
+ </body>
+</html>
